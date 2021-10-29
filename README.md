@@ -19,3 +19,4 @@ If you find the code useful in your research, please consider citing:
     publisher = {Optical Society of America}
     }
     
+![](https://github.com/djbradyAtOpticalSciencesArizona/arrayCameraFourierPtychography/blob/main/right.gif)

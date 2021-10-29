@@ -12,6 +12,8 @@ The optimal Cramér-Rao lower bound on the mean-square error for the estimation 
 *Fourier_Ptychography_for_Phase_Retrieval.ipynb* : We implemented a Fourier ptychographic system where sampling windows were applied to the signal in the Fourier space, and the selected patches were inverse transformed to generate low-resolution frames. 
 
 ### Snapshot Ptychography on Array-cameras
+
+Demonstration of the measurements:
 ![](https://github.com/djbradyAtOpticalSciencesArizona/arrayCameraFourierPtychography/blob/main/sample_measurement.gif)
 
 ### Citation

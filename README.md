@@ -13,6 +13,7 @@ The optimal Cramér-Rao lower bound on the mean-square error for the estimation 
 
 ### Snapshot Ptychography on Array-cameras
 
+![](https://github.com/djbradyAtOpticalSciencesArizona/arrayCameraFourierPtychography/blob/main/proto_system.pdf)
 Demonstration of the groundtruth and the corresponding measurements:
 ![](https://github.com/djbradyAtOpticalSciencesArizona/arrayCameraFourierPtychography/blob/main/sample_measurement.gif)
 

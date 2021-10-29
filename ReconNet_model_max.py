@@ -1,3 +1,6 @@
+# This implementation is based on the DenseNet implementation by Geoff Pleiss
+# https://github.com/gpleiss/efficient_densenet_pytorch/blob/master/models/densenet.py
+
 import torch.nn as nn
 import torch
 

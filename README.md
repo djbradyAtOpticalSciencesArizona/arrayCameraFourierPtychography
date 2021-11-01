@@ -21,6 +21,8 @@ The optimal Cramér-Rao lower bound on the mean-square error for the estimation 
 
 ***demo.ipynb***: a demo of the reconstruction results.
 
+Please contact the author for the access to the entire dataset.
+
 ### Citation
 If you find the code useful in your research, please consider citing:
 

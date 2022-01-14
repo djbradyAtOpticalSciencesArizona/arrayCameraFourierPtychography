@@ -37,4 +37,20 @@ If you find the code useful in your research, please consider citing:
     publisher = {Optical Society of America}
     }
     
+    
+    @article{Wang:22,
+    author = {Chengyu Wang and Minghao Hu and Yuzuru Takashima and Timothy J. Schulz and David J. Brady},
+    journal = {Opt. Express},
+    keywords = {Aperture synthesis; Image processing; Imaging systems; Radar imaging; Synthetic aperture imaging; Three dimensional imaging},
+    number = {2},
+    pages = {2585--2598},
+    publisher = {OSA},
+    title = {Snapshot ptychography on array cameras},
+    volume = {30},
+    month = {Jan},
+    year = {2022},
+    doi = {10.1364/OE.447499},
+    }
+
+
 

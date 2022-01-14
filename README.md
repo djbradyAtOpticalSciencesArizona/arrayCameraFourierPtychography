@@ -44,12 +44,12 @@ If you find the code useful in your research, please consider citing:
      keywords = {Aperture synthesis; Image processing; Imaging systems; Radar imaging; Synthetic aperture imaging; Three dimensional imaging},
        number = {2},
         pages = {2585--2598},
-     publisher = {OSA},
-         title = {Snapshot ptychography on array cameras},
-        volume = {30},
-         month = {Jan},
-          year = {2022},
-           doi = {10.1364/OE.447499},
+    publisher = {OSA},
+        title = {Snapshot ptychography on array cameras},
+       volume = {30},
+        month = {Jan},
+         year = {2022},
+          doi = {10.1364/OE.447499},
     }
 
 

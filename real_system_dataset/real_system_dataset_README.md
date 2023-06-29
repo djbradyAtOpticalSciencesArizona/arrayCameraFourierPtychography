@@ -40,7 +40,7 @@ The neural network model takes measurement data as input. For more detailed info
 
 ## Data Access
 To access the dataset, please follow these steps:
-1. Download this dataset from [UA ReDATA Repository](https://figshare.com/s/0dac12a23676c7150fc6).
+1. Download this dataset from [UA ReDATA Repository](https://doi.org/10.25422/azu.data.23411852).
 2. Extract all zip files.
 3. Navigate to the desired directory (real_system_dataset_ground_truth/ or real_system_dataset_measurements/) to access the corresponding files.
 
